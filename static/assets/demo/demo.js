@@ -423,8 +423,8 @@ demo = {
 
 
 
-    var chart_labels = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
-    var chart_data = [100, 70, 90, 70, 85, 60, 75, 60, 90, 80, 110, 100];
+    var chart_labels = ['APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC', 'JAN', 'FEB', 'MAR'];
+    var chart_data = [10000, 7000, 9000, 7000, 8500, 12500, 7500, 6000, 9000, 8000, 11000, 10000];
 
 
     var ctx = document.getElementById("chartBig1").getContext('2d');
